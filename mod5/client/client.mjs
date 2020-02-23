@@ -7,7 +7,6 @@ function update(){
   if (native.isAimCamActive()){
     native.hideHudComponentThisFrame(14);   
     native.drawSprite("visualflow", "crosshair", 0.5, 0.5, 0.008, 0.009, 0, 255, 255, 255, 100, false);
-    alt.log(native.getLocalPlayerAimState());
   }
   let vehicle = alt.Player.local.vehicle;
   if (vehicle){
