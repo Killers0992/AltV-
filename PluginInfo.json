@@ -1,0 +1,8 @@
+    {
+        "PluginVersion": "1.2.0",
+        "pluginFile": {
+            "Link": "https://github.com/Killers0992/AltV-/raw/master/MapEditor.dll"
+        },
+        "dependencyFiles": [
+        ]
+    }
